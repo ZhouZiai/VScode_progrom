@@ -1,2 +1,2 @@
 # VScode_progrom
-This is my first git repository, which I use to replicate and learn YOLO7
+I use this progrom to save my codes
